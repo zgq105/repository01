@@ -3,7 +3,7 @@ Git is free software.郑国强
 
 hello world
 
-zgq郑国强
+zgq郑
 
 Creating a new branch is quick.
 
